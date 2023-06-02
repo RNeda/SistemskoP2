@@ -1,0 +1,15 @@
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\bin\Debug\net6.0\sistemskoP2.exe
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\bin\Debug\net6.0\sistemskoP2.deps.json
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\bin\Debug\net6.0\sistemskoP2.runtimeconfig.json
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\bin\Debug\net6.0\sistemskoP2.dll
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\bin\Debug\net6.0\ref\sistemskoP2.dll
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\bin\Debug\net6.0\sistemskoP2.pdb
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.csproj.AssemblyReference.cache
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.dll
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\ref\sistemskoP2.dll
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.pdb
+C:\Users\Korisnik\Desktop\faks prez\sistemsko\sistemskoP2\obj\Debug\net6.0\sistemskoP2.genruntimeconfig.cache
